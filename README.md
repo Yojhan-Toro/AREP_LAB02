@@ -31,7 +31,7 @@ git clone https://github.com/Yojhan-Toro/AREP_LAB02.git
 ```
 2. Ingresar al directorio del proyecto:
 ```bash
-cd heart-disease-logistic-regression
+cd heart_disease_lr_analysis.ipynb
 ```
 3. Abrir el notebook:
 ```bash
